@@ -1,4 +1,4 @@
-package com.revature.discoveryService;
+package com.stiggley.discoveryService;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
